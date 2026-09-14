@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm Hayden (@haydenrx987)
 
-<!--
-**haydenrx987/haydenrx987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in Zurich, working at **Tech Labs**. Mostly building reliable APIs, wrangling data pipelines, and keeping queries fast.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- 🔭 Writing microservices in **Go** and **FastAPI**
+- ⚙️ Tuning DB performance with **PostgreSQL** and **Redis**
+- 📦 Packaging infra with **Docker**
+- 📚 Digging deeper into distributed consensus and Linux internals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tooling
+`Go` `Python` `FastAPI` `PostgreSQL` `Redis` `Docker` `Linux` `Git`
+
+#### Connect
+- Email: hayden.rx987@pm.me
+- Based in Zurich, always down to talk systems architecture.
